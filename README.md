@@ -1,16 +1,29 @@
-📄Poor Budget Virus
-This is a simple and harmless Python project created for educational and entertainment purposes. It simulates a fake password prompt and sends the user's input to a specified Discord webhook. The idea is to show how basic Python scripting, tkinter GUI creation, and HTTP requests using the requests library work.
+# 📄 Poor Budget Virus
 
-This project is completely open source. You are free to use, modify, and share this code. However, proper credit must always be given to the original creator. Do not claim this project as your own work without acknowledgment.
+This is a simple and harmless Python project created for educational and entertainment purposes. It simulates a fake password prompt and sends the user's input to a specified Discord webhook. The idea is to show how basic Python scripting, tkinter GUI creation, and HTTP requests using the `requests` library work.
 
-⚠️ This script is meant purely for learning, pranking friends safely, and understanding simple form-based data capture. It must not be used for malicious purposes or unauthorized data collection. Always have explicit permission before running this script on someone else’s device.
+---
+
+**⚠️ Disclaimer:**  
+This script is meant purely for learning, pranking friends safely, and understanding simple form-based data capture. It must **not** be used for malicious purposes or unauthorized data collection. Always have explicit permission before running this script on someone else’s device.
+
+---
+
+### 🔧 Requirements
 
 You will need:
 
-Python 3.x
+- **Python 3.x**
+- **requests module**  
+  (You can install it using `pip install requests`)
 
-requests module (you can install it using pip install requests)
+---
 
-Enjoy responsibly and have fun learning!
+### 📜 License
 
-Created by tomatochilli.
+This project is completely **open source**. You are free to use, modify, and share this code. However, proper credit must always be given to the original creator. Do not claim this project as your own work without acknowledgment.
+
+---
+
+Enjoy responsibly and have fun learning!  
+Created by **tomatochilli**.
